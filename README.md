@@ -7,5 +7,9 @@ PB614L-13-102 illuminated, mono or bicolour LED switch. Lovely part, available f
 
 thonkiconn 3.5mm mono audio jack socket https://www.thonk.co.uk/shop/3-5mm-jacks/
 
+1/4 inch audio jack footprint, for Cliff connectors: http://www.cliffuk.co.uk/products/jacksockets/s2.htm
+available from Bitsbox, https://www.bitsbox.co.uk/index.php?main_page=product_info&cPath=225_226_294&products_id=1557
+same footprint works for TRS (stereo) as well as TS (mono)
+
 
 
